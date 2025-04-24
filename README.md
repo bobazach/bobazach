@@ -1,6 +1,11 @@
 ## Howdy! (Fun fact, I'm from Kansas 🤠🌽)
 
-## I'm currently building out some projects using...
+Other fun facts...
+- Emory University '25 graduate
+- 13 music festivals and counting
+- Overly obsessed with pickleball
+
+I'm currently building out some projects using...
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -11,7 +16,7 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-## Reach me at...
+Reach me at...
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/zachcheng/">
